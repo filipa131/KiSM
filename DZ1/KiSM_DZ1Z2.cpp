@@ -1,3 +1,8 @@
+/*
+Afinom šifrom s ključem K je iz otvorenog teksta na hrvatskom jeziku dobiven šifrat.
+Odredite ključ K = (a, b) i otvoreni tekst (dekriptirajte šifrat).
+*/
+
 #include <algorithm>
 #include <iostream>
 #include <string>
